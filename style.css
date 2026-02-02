@@ -1,0 +1,7 @@
+/* This removes reddit add post completely*/
+shreddit-ad-post {
+    display: none !important;
+}
+shreddit-comments-page-ad {
+    display: none !important;
+}
